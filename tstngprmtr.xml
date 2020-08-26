@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite16">
+  <test name="Test16">
+  
+ <!--  <parameter name="First_name" value="Automation"></parameter> -->
+  
+  <classes>
+  <class name="parameters.prmtrs">
+  
+  </class>
+  </classes>
+  </test> 
+</suite> 
